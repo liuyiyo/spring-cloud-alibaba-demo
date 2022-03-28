@@ -1,0 +1,19 @@
+server:
+  port: 8087
+spring:
+  application:
+    name: sentinel-server
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+    sentinel:
+      transport:
+        port: 8719
+        dashboard: localhost:8080
+      web-context-unify: false
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'

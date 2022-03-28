@@ -1,0 +1,10 @@
+spring:
+  cloud:
+    nacos:
+      config:
+        group: DEFAULT_GROUP
+        server-addr: 127.0.0.1:8848
+        namespace: 9e399921-b5b7-47f5-a026-634f2751e759
+  config:
+    import:
+      - optional:nacos:test.yml
