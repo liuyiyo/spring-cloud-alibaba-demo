@@ -12,8 +12,3 @@ spring:
         port: 8719
         dashboard: localhost:8080
       web-context-unify: false
-management:
-  endpoints:
-    web:
-      exposure:
-        include: '*'
