@@ -10,11 +10,13 @@
     <modules>
         <module>spring-cloud-alibaba-nacos</module>
         <module>spring-cloud-alibaba-nacos-consumer</module>
-        <module>spring-cloud-openfign-consumer</module>
+        <module>spring-cloud-openfeign-consumer</module>
         <module>spring-cloud-alibaba-nacos-8084</module>
         <module>spring-cloud-alibaba-config</module>
         <module>spring-cloud-alibaba-sentinel</module>
         <module>spring-cloud-alibaba-commons</module>
+        <module>spring-cloud-alibaba-rabbitmq</module>
+        <module>spring-cloud-kafka</module>
     </modules>
 
     <name>spring-cloud-alibaba-demo</name>
