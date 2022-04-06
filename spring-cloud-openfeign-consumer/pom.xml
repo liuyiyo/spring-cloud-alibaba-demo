@@ -12,6 +12,7 @@
     <artifactId>spring-cloud-openfeign-consumer</artifactId>
 
     <properties>
+
     </properties>
 
     <dependencies>

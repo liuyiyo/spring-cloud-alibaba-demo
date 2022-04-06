@@ -1,0 +1,1 @@
+java -jar -Dspring.config.location=../config/ ../boot/springboot-demo.jar

@@ -17,6 +17,7 @@
         <module>spring-cloud-alibaba-commons</module>
         <module>spring-cloud-alibaba-rabbitmq</module>
         <module>spring-cloud-kafka</module>
+        <module>spring-boot-demo</module>
     </modules>
 
     <name>spring-cloud-alibaba-demo</name>
