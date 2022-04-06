@@ -8,7 +8,7 @@ source /etc/profile
 #cd /usr/local/ML-1.0/bin
 #这里可替换为你自己的执行程序，其他代码无需更改
 APP_NAME=/home/tomcat/java_project/data_quality/dqre-core
-JAR_NAME=boot/spring-boot.jar
+JAR_NAME=boot/spring-boot-demo.jar
 #使用说明，用来提示输入参数
 usage() {
     echo "Usage: sh 脚本名.sh [start|stop|restart|status]"
